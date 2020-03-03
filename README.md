@@ -1,3 +1,3 @@
 # horizon_api
 
-** RUN NPM START**
+RUN `NPM START
